@@ -2,4 +2,4 @@
 
 ## Process Flow
 
-![](images/process_flow)
+![](images/process_flow.png)
