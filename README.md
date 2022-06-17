@@ -18,3 +18,7 @@ f)	Dialogflow sends the response to the end-user.
 
 g)	The end-user sees or hears the response.
 
+## A glimpse of the Dialogflow Chatbot Deployed in Telegram:
+
+![](images/video.gif)
+
